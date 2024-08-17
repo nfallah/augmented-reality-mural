@@ -1,7 +1,9 @@
 # Augmented Reality (AR) Mural
 
 This GitHub repository is a mirror of two separate GitLab repositories. The source code can be found at the following links:
+
 [Client Code](https://gitlab.orbit-lab.org/nfallah/ar-mural)
+
 [Server Code](https://gitlab.orbit-lab.org/nfallah/ar-mural-server)
 
 This project encapsulates a collaborative augmented reality (AR) application that enables remote users to create a virtual mural together. The client-side architecture is built using the Unity game engine and can be deployed on the Microsoft HoloLens 2. Running the Unity project on a computer also allows you to connect to the server.
